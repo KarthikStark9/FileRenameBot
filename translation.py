@@ -11,7 +11,7 @@ class Translation(object):
     DOWNLOAD_START = "<b>♻ᗪOᗯNᏞOᗩᗪINᏀ...</b>"
     UPLOAD_START = "<b>🖨ᑌPᏞOᗩᗪINᏀ...</b>"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It?"
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**🎉OᑭᗴᖇᗩᎢION SᑌᑕᑕᗴSSᖴᑌᏞ..**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**ᖇᗴNᗩᗰINᏀ SᑌᑕᑕᗴSSᖴᑌᏞ..🎉..**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
     NOT_AUTH_USER_TEXT = "CONTACT @KarthikStark "
     NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @KarthikStark "
@@ -23,10 +23,10 @@ class Translation(object):
     REPLY_TO_DOC_FOR_RENAME_FILE = "<b> Reply To A File With /rename file name .extension (mkv) To rename a file</b>"
     REPLY_TO_DOC_FOR_C2V = "<b> Reply To A File With /c2v To Convert It Into Video. </b>"
     REPLY_TO_DOC_FOR_C2A = "<b> Reply To A File/video With /c2a To Convert It Into Audio File.</b>"
-    CUSTOM_CAPTION_UL_FILE = " "
+    CUSTOM_CAPTION_UL_FILE = "@StarSeriez"
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Thumbnail found."
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
-    IFLONG_FILE_NAME = """Wtf?...Decrease The Number Of Letters😆😉"""
+    IFLONG_FILE_NAME = """Wtf?...Decrease The Number Of Letters."""
     ABOUT_ME = """<b>Meh : \n A Telegram File Renamer Bot Which Can Rename Telegram Files and also Converts Files to Videos.</b>"""
     HELP_USER = """Want Help??
     
