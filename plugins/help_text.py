@@ -70,12 +70,12 @@ async def start(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Support Channel', url='https://t.me/Mai_bOTs'),
-                    InlineKeyboardButton('Feedback', url='https://t.me/No_OnE_Kn0wS_Me')
+                    InlineKeyboardButton('Star Channels', url='https://t.me/StarChannelsX',
+                    InlineKeyboardButton('Web-Series', url='https://t.me/StarSeriez')
                 ],
                 [
-                    InlineKeyboardButton('Other Bots', url='https://t.me/Mai_bOTs/17'),
-                    InlineKeyboardButton('Source', url='https://github.com/No-OnE-Kn0wS-Me/FileRenameBot')
+                    InlineKeyboardButton('480p Hollywood Movies', url='https://t.me/FridayMoviz'),
+                    InlineKeyboardButton('Marvel Channel', url='https://t.me/IL0veMarvel3000')
                 ]
             ]
         ),
