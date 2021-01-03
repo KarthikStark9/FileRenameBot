@@ -5,13 +5,13 @@ class Translation(object):
 <b>Send /help for more...</b> \n
 """
 
-    RENAME_403_ERR = "What Are You Doing? Bruuh!!"
+    RENAME_403_ERR = "What Are You Doing?"
     BANNED_USER_TEXT = "Sorry!! but you can't use this service.. " 
     ABS_TEXT = "What Are You Trying To Do?"
     UPGRADE_TEXT = "CONTACT @KarthikStark "
     DOWNLOAD_START = "<b>♻️ Downloading...</b>"
     UPLOAD_START = "<b>📥 Uploading...</b>"
-    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It?"
+    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\n"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Renaming Successful ✅**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
     NOT_AUTH_USER_TEXT = "CONTACT @KarthikStark "
