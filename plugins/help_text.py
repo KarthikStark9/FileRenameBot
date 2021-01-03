@@ -74,7 +74,7 @@ async def start(bot, update):
                     InlineKeyboardButton('Web-Series', url='https://t.me/StarSeriez')
                 ],
                 [
-                    InlineKeyboardButton('480p Hollywood Movies', url='https://t.me/FridayMoviz'),
+                    InlineKeyboardButton('480p Hollywood Movies', url='https://t.me/StarMoviezX'),
                     InlineKeyboardButton('Marvel Channel', url='https://t.me/IL0veMarvel3000')
                 ]
             ]
